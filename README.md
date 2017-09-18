@@ -1,0 +1,2 @@
+# Movie-Recommendation-System
+Developed a project to process a large corpus of movie ratings for the purpose of providing movie recommendations. Statistical correlation and cosine similarity had calculated for each pair of movies in the data set using python. Python and Scala program had been written and deployed on Hadoop MapReduce and Spark platform to access the processing time and speed as well as to get the desired output.
